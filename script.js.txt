@@ -1,6 +1,1 @@
-document.getElementById('startBtn').addEventListener('click', function() {
-    alert("Ì·« ‰»œ√ —Õ· ﬂ!");
 
-    let mapDiv = document.getElementById('map');
-    mapDiv.innerHTML = "<p>Â‰« Â ŸÂ— Œ—Ìÿ ﬂ ·«Õﬁ« ???</p>";
-});
